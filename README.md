@@ -28,7 +28,7 @@ A computer vis system made with the help of opencv that can automatically detect
 
 ● The eye is open if Eye Aspect ratio is greater than threshold. (Around 0.3)
 
-<img src=https://github.com/shubham769/Driver-drowsiness-detection/blob/master/Images/eye.PNG">
+<img src="https://github.com/shubham769/Driver-drowsiness-detection/blob/master/Images/eye.PNG">
 
 ● A blink is supposed to last 200-300 milliseconds.
 
@@ -38,7 +38,7 @@ A computer vis system made with the help of opencv that can automatically detect
 
 ## Execution
 To run the code, run 
-
 ```
 python blinkDetect.py
 ```
+<video src="https://github.com/shubham769/Driver-drowsiness-detection/blob/master/Drowniness.mp4">
